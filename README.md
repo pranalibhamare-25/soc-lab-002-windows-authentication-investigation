@@ -24,11 +24,11 @@ Investigate Windows authentication events to identify failed and successful logi
 | Date and Time | Event ID | Logon Type | Observation |
 |---|---|---|---|
 | 02-Nov-2026 11:15:29 | 4624 | 2 | Successful interactive login to the local user account |
-| 02-Nov-2026 11:15:39 | 4625 | 2 | Failed interactive login — incorrect password |
-| 02-Nov-2026 11:15:40 | 4625 | 2 | Failed interactive login — incorrect password |
+| 02-Nov-2026 11:15:39 | 4625 | 2 | Failed interactive login - incorrect password |
+| 02-Nov-2026 11:15:40 | 4625 | 2 | Failed interactive login - incorrect password |
 | 02-Nov-2026 11:15:44 | 4624 | 5 | Successful SYSTEM service logon |
 | 02-Nov-2026 11:16:03 | 4624 | 5 | Successful service logon |
-| 02-Nov-2026 21:57:24 | 4625 | 2 | Failed interactive login — incorrect password |
+| 02-Nov-2026 21:57:24 | 4625 | 2 | Failed interactive login - incorrect password |
 
 ## 4. Technical Evidence
 
