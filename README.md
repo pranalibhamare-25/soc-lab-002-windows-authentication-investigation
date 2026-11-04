@@ -1,4 +1,4 @@
-# SOC Lab 002 — Windows Authentication Log Investigation
+# SOC Lab 002 - Windows Authentication Log Investigation
 
 **Analyst:** Pranali Bhamare  
 **Lab Type:** Windows Security Event Log Analysis  
@@ -32,7 +32,7 @@ Investigate Windows authentication events to identify failed and successful logi
 
 ## 4. Technical Evidence
 
-### Failed Authentication — Event ID 4625
+### Failed Authentication - Event ID 4625
 
 Three failed authentication events were identified.
 
@@ -50,7 +50,7 @@ Common characteristics:
 
 **Interpretation:** The substatus `0xC000006A` indicates incorrect-password authentication failures. The source address is the local loopback interface.
 
-### Successful Authentication — Event ID 4624
+### Successful Authentication - Event ID 4624
 
 A successful interactive login was identified at 11:15:29 AM.
 
