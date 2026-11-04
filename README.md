@@ -1,11 +1,11 @@
 # SOC Lab 002 — Windows Authentication Log Investigation
 
-**Analyst:** Pranali Bhamar  
+**Analyst:** Pranali Bhamare  
 **Lab Type:** Windows Security Event Log Analysis  
 **Tools:** Windows Event Viewer  
 **Investigation Date:** 4 November 2026  
 **Events Investigated:** 4624, 4625  
-**MITRE ATT&CK Reference:** T1110 — Brute Force (considered as a potential detection category; not confirmed)
+**MITRE ATT&CK Reference:** T1110 - Brute Force (considered as a potential detection category; not confirmed)
 
 ## 1. Objective
 
